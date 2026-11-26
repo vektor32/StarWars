@@ -1,1 +1,5 @@
-# StarWars
+# StarWars API
+
+Figma: 
+
+Trello: 
